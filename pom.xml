@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.monami.servlet</groupId>
-  <artifactId>web-nav-app5</artifactId>
+  <artifactId>web-nav-app4</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>web-nav-app5 Maven Webapp</name>
+  <name>web-nav-app4 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>web-nav-app5</finalName>
+    <finalName>web-nav-app4</finalName>
   </build>
 </project>
